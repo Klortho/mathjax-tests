@@ -1,0 +1,690 @@
+<div class="disp-formula" id="FD1">
+  <div class="f">
+    <span class="MathJax_Preview"/>
+    <div class="MathJax_Display" role="textbox" aria-readonly="true" style="text-align: center;">
+      <span class="MathJax" id="MathJax-Element-1-Frame" style="">
+        <nobr>
+          <span class="math" id="M1" style="width: 28.832em; display: inline-block;">
+            <span
+              style="display: inline-block; position: relative; width: 25.96em; height: 0px; font-size: 111%;">
+              <span
+                style="position: absolute; clip: rect(0.397em 1000.003em 3.719em -0.504em); top: -2.193em; left: 0.003em;">
+                <span class="mrow" id="MathJax-Span-2">
+                  <span class="mrow" id="MathJax-Span-3">
+                    <span class="msub" id="MathJax-Span-4">
+                      <span
+                        style="display: inline-block; position: relative; width: 0.847em; height: 0px;">
+                        <span
+                          style="position: absolute; clip: rect(1.41em 1000.003em 2.424em -0.504em); top: -2.024em; left: 0.003em;">
+                          <span class="mrow" id="MathJax-Span-5">
+                            <span class="mi" id="MathJax-Span-6"
+                              style="font-family: MathJax_Math; font-style: italic;">y<span
+                                style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"
+                              /></span>
+                          </span>
+                          <span style="display: inline-block; width: 0px; height: 2.03em;"/>
+                        </span>
+                        <span style="position: absolute; top: -1.517em; left: 0.566em;">
+                          <span class="mi" id="MathJax-Span-7"
+                            style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                            >i</span>
+                          <span style="display: inline-block; width: 0px; height: 1.748em;"/>
+                        </span>
+                      </span>
+                    </span>
+                    <span class="mo" id="MathJax-Span-8" style="font-family: MathJax_Main;">(</span>
+                    <span class="msub" id="MathJax-Span-9">
+                      <span
+                        style="display: inline-block; position: relative; width: 1.016em; height: 0px;">
+                        <span
+                          style="position: absolute; clip: rect(1.242em 1000.003em 2.199em -0.504em); top: -2.024em; left: 0.003em;">
+                          <span class="mrow" id="MathJax-Span-10">
+                            <span class="mi" id="MathJax-Span-11"
+                              style="font-family: MathJax_Math; font-style: italic;">t</span>
+                          </span>
+                          <span style="display: inline-block; width: 0px; height: 2.03em;"/>
+                        </span>
+                        <span style="position: absolute; top: -1.574em; left: 0.341em;">
+                          <span class="mrow" id="MathJax-Span-12">
+                            <span class="mi" id="MathJax-Span-13"
+                              style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                              >i</span>
+                            <span class="mi" id="MathJax-Span-14"
+                              style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                              >k</span>
+                          </span>
+                          <span style="display: inline-block; width: 0px; height: 1.748em;"/>
+                        </span>
+                      </span>
+                    </span>
+                    <span class="mo" id="MathJax-Span-15" style="font-family: MathJax_Main;"
+                      >)</span>
+                    <span class="mo" id="MathJax-Span-16"
+                      style="font-family: MathJax_Main; padding-left: 0.284em;">=</span>
+                    <span class="munderover" id="MathJax-Span-17" style="padding-left: 0.284em;">
+                      <span
+                        style="display: inline-block; position: relative; width: 1.467em; height: 0px;">
+                        <span
+                          style="position: absolute; clip: rect(2.086em 1000.003em 3.832em -0.448em); top: -3.207em; left: 0.003em;">
+                          <span class="mo" id="MathJax-Span-18"
+                            style="font-family: MathJax_Size2; vertical-align: 0.003em;">∑</span>
+                          <span style="display: inline-block; width: 0px; height: 3.212em;"/>
+                        </span>
+                        <span
+                          style="position: absolute; clip: rect(1.242em 1000.003em 2.255em -0.504em); top: -0.785em; left: 0.059em;">
+                          <span class="mrow" id="MathJax-Span-19">
+                            <span class="mi" id="MathJax-Span-20"
+                              style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                >g<span
+                                style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"
+                              /></span>
+                            <span class="mo" id="MathJax-Span-21"
+                              style="font-size: 70.7%; font-family: MathJax_Main;">=</span>
+                            <span class="mn" id="MathJax-Span-22"
+                              style="font-size: 70.7%; font-family: MathJax_Main;">1</span>
+                          </span>
+                          <span style="display: inline-block; width: 0px; height: 1.861em;"/>
+                        </span>
+                        <span
+                          style="position: absolute; clip: rect(1.185em 1000.003em 2.03em -0.504em); top: -2.925em; left: 0.566em;">
+                          <span class="mi" id="MathJax-Span-23"
+                            style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                            >p</span>
+                          <span style="display: inline-block; width: 0px; height: 1.748em;"/>
+                        </span>
+                      </span>
+                    </span>
+                    <span class="mrow" id="MathJax-Span-24" style="padding-left: 0.172em;">
+                      <span class="msub" id="MathJax-Span-25">
+                        <span
+                          style="display: inline-block; position: relative; width: 1.242em; height: 0px;">
+                          <span
+                            style="position: absolute; clip: rect(1.41em 1000.003em 2.199em -0.448em); top: -2.024em; left: 0.003em;">
+                            <span class="mrow" id="MathJax-Span-26">
+                              <span class="mi" id="MathJax-Span-27"
+                                style="font-family: MathJax_Math; font-style: italic;">x</span>
+                            </span>
+                            <span style="display: inline-block; width: 0px; height: 2.03em;"/>
+                          </span>
+                          <span style="position: absolute; top: -1.574em; left: 0.566em;">
+                            <span class="mrow" id="MathJax-Span-28">
+                              <span class="mi" id="MathJax-Span-29"
+                                style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                >i</span>
+                              <span class="mi" id="MathJax-Span-30"
+                                style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                  >g<span
+                                  style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"
+                                /></span>
+                            </span>
+                            <span style="display: inline-block; width: 0px; height: 1.748em;"/>
+                          </span>
+                        </span>
+                      </span>
+                      <span class="mo" id="MathJax-Span-31" style="font-family: MathJax_Main;"
+                        >(</span>
+                      <span class="msub" id="MathJax-Span-32">
+                        <span
+                          style="display: inline-block; position: relative; width: 1.016em; height: 0px;">
+                          <span
+                            style="position: absolute; clip: rect(1.242em 1000.003em 2.199em -0.504em); top: -2.024em; left: 0.003em;">
+                            <span class="mrow" id="MathJax-Span-33">
+                              <span class="mi" id="MathJax-Span-34"
+                                style="font-family: MathJax_Math; font-style: italic;">t</span>
+                            </span>
+                            <span style="display: inline-block; width: 0px; height: 2.03em;"/>
+                          </span>
+                          <span style="position: absolute; top: -1.574em; left: 0.341em;">
+                            <span class="mrow" id="MathJax-Span-35">
+                              <span class="mi" id="MathJax-Span-36"
+                                style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                >i</span>
+                              <span class="mi" id="MathJax-Span-37"
+                                style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                >k</span>
+                            </span>
+                            <span style="display: inline-block; width: 0px; height: 1.748em;"/>
+                          </span>
+                        </span>
+                      </span>
+                      <span class="mo" id="MathJax-Span-38" style="font-family: MathJax_Main;"
+                        >)</span>
+                      <span class="msubsup" id="MathJax-Span-39">
+                        <span
+                          style="display: inline-block; position: relative; width: 1.129em; height: 0px;">
+                          <span
+                            style="position: absolute; clip: rect(1.129em 1000.003em 2.368em -0.504em); top: -2.024em; left: 0.003em;">
+                            <span class="mrow" id="MathJax-Span-40">
+                              <span class="mi" id="MathJax-Span-41"
+                                style="font-family: MathJax_Math; font-style: italic;">β<span
+                                  style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"
+                                /></span>
+                            </span>
+                            <span style="display: inline-block; width: 0px; height: 2.03em;"/>
+                          </span>
+                          <span
+                            style="position: absolute; clip: rect(1.242em 1000.003em 2.03em -0.504em); top: -2.306em; left: 0.678em;">
+                            <span class="mn" id="MathJax-Span-42"
+                              style="font-size: 70.7%; font-family: MathJax_Main;">0</span>
+                            <span style="display: inline-block; width: 0px; height: 1.861em;"/>
+                          </span>
+                          <span
+                            style="position: absolute; clip: rect(1.242em 1000.003em 2.086em -0.504em); top: -1.517em; left: 0.622em;">
+                            <span class="mi" id="MathJax-Span-43"
+                              style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                >g<span
+                                style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"
+                              /></span>
+                            <span style="display: inline-block; width: 0px; height: 1.748em;"/>
+                          </span>
+                        </span>
+                      </span>
+                      <span class="mo" id="MathJax-Span-44" style="font-family: MathJax_Main;"
+                        >(</span>
+                      <span class="msub" id="MathJax-Span-45">
+                        <span
+                          style="display: inline-block; position: relative; width: 1.016em; height: 0px;">
+                          <span
+                            style="position: absolute; clip: rect(1.242em 1000.003em 2.199em -0.504em); top: -2.024em; left: 0.003em;">
+                            <span class="mrow" id="MathJax-Span-46">
+                              <span class="mi" id="MathJax-Span-47"
+                                style="font-family: MathJax_Math; font-style: italic;">t</span>
+                            </span>
+                            <span style="display: inline-block; width: 0px; height: 2.03em;"/>
+                          </span>
+                          <span style="position: absolute; top: -1.574em; left: 0.341em;">
+                            <span class="mrow" id="MathJax-Span-48">
+                              <span class="mi" id="MathJax-Span-49"
+                                style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                >i</span>
+                              <span class="mi" id="MathJax-Span-50"
+                                style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                >k</span>
+                            </span>
+                            <span style="display: inline-block; width: 0px; height: 1.748em;"/>
+                          </span>
+                        </span>
+                      </span>
+                      <span class="mo" id="MathJax-Span-51" style="font-family: MathJax_Main;"
+                        >)</span>
+                    </span>
+                    <span class="mo" id="MathJax-Span-52"
+                      style="font-family: MathJax_Main; padding-left: 0.228em;">+</span>
+                    <span class="msub" id="MathJax-Span-53" style="padding-left: 0.228em;">
+                      <span
+                        style="display: inline-block; position: relative; width: 1.129em; height: 0px;">
+                        <span
+                          style="position: absolute; clip: rect(1.41em 1000.003em 2.199em -0.504em); top: -2.024em; left: 0.003em;">
+                          <span class="mrow" id="MathJax-Span-54">
+                            <span class="mi" id="MathJax-Span-55"
+                              style="font-family: MathJax_Math; font-style: italic;">ε</span>
+                          </span>
+                          <span style="display: inline-block; width: 0px; height: 2.03em;"/>
+                        </span>
+                        <span style="position: absolute; top: -1.574em; left: 0.453em;">
+                          <span class="mrow" id="MathJax-Span-56">
+                            <span class="mi" id="MathJax-Span-57"
+                              style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                              >i</span>
+                            <span class="mi" id="MathJax-Span-58"
+                              style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                              >k</span>
+                          </span>
+                          <span style="display: inline-block; width: 0px; height: 1.748em;"/>
+                        </span>
+                      </span>
+                    </span>
+                    <span class="mo" id="MathJax-Span-59" style="font-family: MathJax_Main;"
+                      >,</span>
+                    <span class="mspace" id="MathJax-Span-60"
+                      style="height: 0.003em; vertical-align: 0.003em; width: 0.172em; display: inline-block; overflow: hidden;"/>
+                    <span class="mi" id="MathJax-Span-61"
+                      style="font-family: MathJax_Math; font-style: italic; padding-left: 0.172em;"
+                      >i</span>
+                    <span class="mo" id="MathJax-Span-62"
+                      style="font-family: MathJax_Main; padding-left: 0.284em;">=</span>
+                    <span class="mn" id="MathJax-Span-63"
+                      style="font-family: MathJax_Main; padding-left: 0.284em;">1</span>
+                    <span class="mo" id="MathJax-Span-64" style="font-family: MathJax_Main;"
+                      >,</span>
+                    <span class="mo" id="MathJax-Span-65"
+                      style="font-family: MathJax_Main; padding-left: 0.172em;">⋯</span>
+                    <span class="mo" id="MathJax-Span-66"
+                      style="font-family: MathJax_Main; padding-left: 0.172em;">,</span>
+                    <span class="mi" id="MathJax-Span-67"
+                      style="font-family: MathJax_Math; font-style: italic; padding-left: 0.172em;"
+                      >n</span>
+                    <span class="mo" id="MathJax-Span-68" style="font-family: MathJax_Main;"
+                      >,</span>
+                    <span class="mi" id="MathJax-Span-69"
+                      style="font-family: MathJax_Math; font-style: italic; padding-left: 0.172em;"
+                      >k</span>
+                    <span class="mo" id="MathJax-Span-70"
+                      style="font-family: MathJax_Main; padding-left: 0.284em;">=</span>
+                    <span class="mn" id="MathJax-Span-71"
+                      style="font-family: MathJax_Main; padding-left: 0.284em;">1</span>
+                    <span class="mo" id="MathJax-Span-72" style="font-family: MathJax_Main;"
+                      >,</span>
+                    <span class="mo" id="MathJax-Span-73"
+                      style="font-family: MathJax_Main; padding-left: 0.172em;">⋯</span>
+                    <span class="mo" id="MathJax-Span-74"
+                      style="font-family: MathJax_Main; padding-left: 0.172em;">,</span>
+                    <span class="mi" id="MathJax-Span-75"
+                      style="font-family: MathJax_Math; font-style: italic; padding-left: 0.172em;"
+                        >K<span
+                        style="display: inline-block; overflow: hidden; height: 1px; width: 0.059em;"
+                      /></span>
+                    <span class="mo" id="MathJax-Span-76" style="font-family: MathJax_Main;"
+                      >,</span>
+                  </span>
+                </span>
+                <span style="display: inline-block; width: 0px; height: 2.199em;"/>
+              </span>
+            </span>
+            <span
+              style="border-left-width: 0.003em; border-left-style: solid; display: inline-block; overflow: hidden; width: 0px; height: 3.378em; vertical-align: -1.559em;"
+            />
+          </span>
+        </nobr>
+      </span>
+      <span id="MathJax_ZoomFrame">
+        <span id="MathJax_ZoomOverlay" style="left: ..."/>
+        <span id="MathJax_Zoom" style="font...">
+
+
+          <span class="MathJax"
+            style="display: inline-block; white-space: nowrap; text-align: center;">
+            <nobr>
+              <span class="math" id="Mz-zoom" style="width: 29.176em; display: inline-block;">
+                <span
+                  style="display: inline-block; position: relative; width: 26.285em; height: 0px; font-size: 111%;">
+                  <span
+                    style="position: absolute; clip: rect(0.528em 999.989em 3.681em -0.298em); top: -2.251em; left: 0.002em;">
+                    <span class="mrow" id="MathJax-Span-2-zoom">
+                      <span class="mrow" id="MathJax-Span-3-zoom">
+                        <span class="msub" id="MathJax-Span-4-zoom">
+                          <span
+                            style="display: inline-block; position: relative; width: 0.865em; height: 0px;">
+                            <span
+                              style="position: absolute; clip: rect(1.466em 999.989em 2.33em -0.298em); top: -2.026em; left: 0.002em;">
+                              <span class="mrow" id="MathJax-Span-5-zoom">
+                                <span class="mi" id="MathJax-Span-6-zoom"
+                                  style="font-family: MathJax_Math; font-style: italic;">y<span
+                                    style="display: inline-block; overflow: hidden; height: 1px; width: 0.002em;"
+                                  /></span>
+                              </span>
+                              <span style="display: inline-block; width: 0px; height: 2.029em;"/>
+                            </span>
+                            <span style="position: absolute; top: -1.5em; left: 0.528em;">
+                              <span class="mi" id="MathJax-Span-7-zoom"
+                                style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                >i</span>
+                              <span style="display: inline-block; width: 0px; height: 1.729em;"/>
+                            </span>
+                          </span>
+                        </span>
+                        <span class="mo" id="MathJax-Span-8-zoom" style="font-family: MathJax_Main;"
+                          >(</span>
+                        <span class="msub" id="MathJax-Span-9-zoom">
+                          <span
+                            style="display: inline-block; position: relative; width: 1.091em; height: 0px;">
+                            <span
+                              style="position: absolute; clip: rect(1.278em 999.989em 2.142em -0.298em); top: -2.026em; left: 0.002em;">
+                              <span class="mrow" id="MathJax-Span-10-zoom">
+                                <span class="mi" id="MathJax-Span-11-zoom"
+                                  style="font-family: MathJax_Math; font-style: italic;">t</span>
+                              </span>
+                              <span style="display: inline-block; width: 0px; height: 2.029em;"/>
+                            </span>
+                            <span style="position: absolute; top: -1.575em; left: 0.377em;">
+                              <span class="mrow" id="MathJax-Span-12-zoom">
+                                <span class="mi" id="MathJax-Span-13-zoom"
+                                  style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                  >i</span>
+                                <span class="mi" id="MathJax-Span-14-zoom"
+                                  style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                  >k</span>
+                              </span>
+                              <span style="display: inline-block; width: 0px; height: 1.729em;"/>
+                            </span>
+                          </span>
+                        </span>
+                        <span class="mo" id="MathJax-Span-15-zoom"
+                          style="font-family: MathJax_Main;">)</span>
+                        <span class="mo" id="MathJax-Span-16-zoom"
+                          style="font-family: MathJax_Main; padding-left: 0.265em;">=</span>
+                        <span class="munderover" id="MathJax-Span-17-zoom"
+                          style="padding-left: 0.265em;">
+                          <span
+                            style="display: inline-block; position: relative; width: 1.466em; height: 0px;">
+                            <span
+                              style="position: absolute; clip: rect(2.18em 999.989em 3.794em -0.298em); top: -3.227em; left: 0.002em;">
+                              <span class="mo" id="MathJax-Span-18-zoom"
+                                style="font-family: MathJax_Size2; vertical-align: 0.002em;"
+                                >∑</span>
+                              <span style="display: inline-block; width: 0px; height: 3.231em;"/>
+                            </span>
+                            <span
+                              style="position: absolute; clip: rect(1.241em 999.989em 2.217em -0.336em); top: -0.749em; left: 0.077em;">
+                              <span class="mrow" id="MathJax-Span-19-zoom">
+                                <span class="mi" id="MathJax-Span-20-zoom"
+                                  style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                    >g<span
+                                    style="display: inline-block; overflow: hidden; height: 1px; width: 0.002em;"
+                                  /></span>
+                                <span class="mo" id="MathJax-Span-21-zoom"
+                                  style="font-size: 70.7%; font-family: MathJax_Main;">=</span>
+                                <span class="mn" id="MathJax-Span-22-zoom"
+                                  style="font-size: 70.7%; font-family: MathJax_Main;">1</span>
+                              </span>
+                              <span style="display: inline-block; width: 0px; height: 1.842em;"/>
+                            </span>
+                            <span
+                              style="position: absolute; clip: rect(1.203em 999.989em 1.992em -0.374em); top: -2.927em; left: 0.565em;">
+                              <span class="mi" id="MathJax-Span-23-zoom"
+                                style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                >p</span>
+                              <span style="display: inline-block; width: 0px; height: 1.729em;"/>
+                            </span>
+                          </span>
+                        </span>
+                        <span class="mrow" id="MathJax-Span-24-zoom" style="padding-left: 0.152em;">
+                          <span class="msub" id="MathJax-Span-25-zoom">
+                            <span
+                              style="display: inline-block; position: relative; width: 1.278em; height: 0px;">
+                              <span
+                                style="position: absolute; clip: rect(1.466em 999.989em 2.142em -0.298em); top: -2.026em; left: 0.002em;">
+                                <span class="mrow" id="MathJax-Span-26-zoom">
+                                  <span class="mi" id="MathJax-Span-27-zoom"
+                                    style="font-family: MathJax_Math; font-style: italic;">x</span>
+                                </span>
+                                <span style="display: inline-block; width: 0px; height: 2.029em;"/>
+                              </span>
+                              <span style="position: absolute; top: -1.575em; left: 0.565em;">
+                                <span class="mrow" id="MathJax-Span-28-zoom">
+                                  <span class="mi" id="MathJax-Span-29-zoom"
+                                    style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                    >i</span>
+                                  <span class="mi" id="MathJax-Span-30-zoom"
+                                    style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                      >g<span
+                                      style="display: inline-block; overflow: hidden; height: 1px; width: 0.002em;"
+                                    /></span>
+                                </span>
+                                <span style="display: inline-block; width: 0px; height: 1.729em;"/>
+                              </span>
+                            </span>
+                          </span>
+                          <span class="mo" id="MathJax-Span-31-zoom"
+                            style="font-family: MathJax_Main;">(</span>
+                          <span class="msub" id="MathJax-Span-32-zoom">
+                            <span
+                              style="display: inline-block; position: relative; width: 1.091em; height: 0px;">
+                              <span
+                                style="position: absolute; clip: rect(1.278em 999.989em 2.142em -0.298em); top: -2.026em; left: 0.002em;">
+                                <span class="mrow" id="MathJax-Span-33-zoom">
+                                  <span class="mi" id="MathJax-Span-34-zoom"
+                                    style="font-family: MathJax_Math; font-style: italic;">t</span>
+                                </span>
+                                <span style="display: inline-block; width: 0px; height: 2.029em;"/>
+                              </span>
+                              <span style="position: absolute; top: -1.575em; left: 0.377em;">
+                                <span class="mrow" id="MathJax-Span-35-zoom">
+                                  <span class="mi" id="MathJax-Span-36-zoom"
+                                    style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                    >i</span>
+                                  <span class="mi" id="MathJax-Span-37-zoom"
+                                    style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                    >k</span>
+                                </span>
+                                <span style="display: inline-block; width: 0px; height: 1.729em;"/>
+                              </span>
+                            </span>
+                          </span>
+                          <span class="mo" id="MathJax-Span-38-zoom"
+                            style="font-family: MathJax_Main;">)</span>
+                          <span class="msubsup" id="MathJax-Span-39-zoom">
+                            <span
+                              style="display: inline-block; position: relative; width: 1.091em; height: 0px;">
+                              <span
+                                style="position: absolute; clip: rect(1.203em 999.989em 2.33em -0.298em); top: -2.026em; left: 0.002em;">
+                                <span class="mrow" id="MathJax-Span-40-zoom">
+                                  <span class="mi" id="MathJax-Span-41-zoom"
+                                    style="font-family: MathJax_Math; font-style: italic;">β<span
+                                      style="display: inline-block; overflow: hidden; height: 1px; width: 0.002em;"
+                                    /></span>
+                                </span>
+                                <span style="display: inline-block; width: 0px; height: 2.029em;"/>
+                              </span>
+                              <span
+                                style="position: absolute; clip: rect(1.241em 999.989em 1.954em -0.298em); top: -2.288em; left: 0.64em;">
+                                <span class="mn" id="MathJax-Span-42-zoom"
+                                  style="font-size: 70.7%; font-family: MathJax_Main;">0</span>
+                                <span style="display: inline-block; width: 0px; height: 1.842em;"/>
+                              </span>
+                              <span
+                                style="position: absolute; clip: rect(1.316em 999.989em 1.992em -0.336em); top: -1.462em; left: 0.603em;">
+                                <span class="mi" id="MathJax-Span-43-zoom"
+                                  style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                    >g<span
+                                    style="display: inline-block; overflow: hidden; height: 1px; width: 0.002em;"
+                                  /></span>
+                                <span style="display: inline-block; width: 0px; height: 1.729em;"/>
+                              </span>
+                            </span>
+                          </span>
+                          <span class="mo" id="MathJax-Span-44-zoom"
+                            style="font-family: MathJax_Main;">(</span>
+                          <span class="msub" id="MathJax-Span-45-zoom">
+                            <span
+                              style="display: inline-block; position: relative; width: 1.091em; height: 0px;">
+                              <span
+                                style="position: absolute; clip: rect(1.278em 999.989em 2.142em -0.298em); top: -2.026em; left: 0.002em;">
+                                <span class="mrow" id="MathJax-Span-46-zoom">
+                                  <span class="mi" id="MathJax-Span-47-zoom"
+                                    style="font-family: MathJax_Math; font-style: italic;">t</span>
+                                </span>
+                                <span style="display: inline-block; width: 0px; height: 2.029em;"/>
+                              </span>
+                              <span style="position: absolute; top: -1.575em; left: 0.377em;">
+                                <span class="mrow" id="MathJax-Span-48-zoom">
+                                  <span class="mi" id="MathJax-Span-49-zoom"
+                                    style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                    >i</span>
+                                  <span class="mi" id="MathJax-Span-50-zoom"
+                                    style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                    >k</span>
+                                </span>
+                                <span style="display: inline-block; width: 0px; height: 1.729em;"/>
+                              </span>
+                            </span>
+                          </span>
+                          <span class="mo" id="MathJax-Span-51-zoom"
+                            style="font-family: MathJax_Main;">)</span>
+                        </span>
+                        <span class="mo" id="MathJax-Span-52-zoom"
+                          style="font-family: MathJax_Main; padding-left: 0.227em;">+</span>
+                        <span class="msub" id="MathJax-Span-53-zoom" style="padding-left: 0.227em;">
+                          <span
+                            style="display: inline-block; position: relative; width: 1.203em; height: 0px;">
+                            <span
+                              style="position: absolute; clip: rect(1.466em 999.989em 2.18em -0.298em); top: -2.026em; left: 0.002em;">
+                              <span class="mrow" id="MathJax-Span-54-zoom">
+                                <span class="mi" id="MathJax-Span-55-zoom"
+                                  style="font-family: MathJax_Math; font-style: italic;">ε</span>
+                              </span>
+                              <span style="display: inline-block; width: 0px; height: 2.029em;"/>
+                            </span>
+                            <span style="position: absolute; top: -1.575em; left: 0.49em;">
+                              <span class="mrow" id="MathJax-Span-56-zoom">
+                                <span class="mi" id="MathJax-Span-57-zoom"
+                                  style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                  >i</span>
+                                <span class="mi" id="MathJax-Span-58-zoom"
+                                  style="font-size: 70.7%; font-family: MathJax_Math; font-style: italic;"
+                                  >k</span>
+                              </span>
+                              <span style="display: inline-block; width: 0px; height: 1.729em;"/>
+                            </span>
+                          </span>
+                        </span>
+                        <span class="mo" id="MathJax-Span-59-zoom"
+                          style="font-family: MathJax_Main;">,</span>
+                        <span class="mspace" id="MathJax-Span-60-zoom"
+                          style="height: 0.002em; vertical-align: 0.002em; width: 0.152em; display: inline-block; overflow: hidden;"/>
+                        <span class="mi" id="MathJax-Span-61-zoom"
+                          style="font-family: MathJax_Math; font-style: italic; padding-left: 0.152em;"
+                          >i</span>
+                        <span class="mo" id="MathJax-Span-62-zoom"
+                          style="font-family: MathJax_Main; padding-left: 0.265em;">=</span>
+                        <span class="mn" id="MathJax-Span-63-zoom"
+                          style="font-family: MathJax_Main; padding-left: 0.265em;">1</span>
+                        <span class="mo" id="MathJax-Span-64-zoom"
+                          style="font-family: MathJax_Main;">,</span>
+                        <span class="mo" id="MathJax-Span-65-zoom"
+                          style="font-family: MathJax_Main; padding-left: 0.152em;">⋯</span>
+                        <span class="mo" id="MathJax-Span-66-zoom"
+                          style="font-family: MathJax_Main; padding-left: 0.152em;">,</span>
+                        <span class="mi" id="MathJax-Span-67-zoom"
+                          style="font-family: MathJax_Math; font-style: italic; padding-left: 0.152em;"
+                          >n</span>
+                        <span class="mo" id="MathJax-Span-68-zoom"
+                          style="font-family: MathJax_Main;">,</span>
+                        <span class="mi" id="MathJax-Span-69-zoom"
+                          style="font-family: MathJax_Math; font-style: italic; padding-left: 0.152em;"
+                          >k</span>
+                        <span class="mo" id="MathJax-Span-70-zoom"
+                          style="font-family: MathJax_Main; padding-left: 0.265em;">=</span>
+                        <span class="mn" id="MathJax-Span-71-zoom"
+                          style="font-family: MathJax_Main; padding-left: 0.265em;">1</span>
+                        <span class="mo" id="MathJax-Span-72-zoom"
+                          style="font-family: MathJax_Main;">,</span>
+                        <span class="mo" id="MathJax-Span-73-zoom"
+                          style="font-family: MathJax_Main; padding-left: 0.152em;">⋯</span>
+                        <span class="mo" id="MathJax-Span-74-zoom"
+                          style="font-family: MathJax_Main; padding-left: 0.152em;">,</span>
+                        <span class="mi" id="MathJax-Span-75-zoom"
+                          style="font-family: MathJax_Math; font-style: italic; padding-left: 0.152em;"
+                            >K<span
+                            style="display: inline-block; overflow: hidden; height: 1px; width: 0.039em;"
+                          /></span>
+                        <span class="mo" id="MathJax-Span-76-zoom"
+                          style="font-family: MathJax_Main;">,</span>
+                      </span>
+                    </span>
+                    <span style="display: inline-block; width: 0px; height: 2.255em;"/>
+                  </span>
+                </span>
+                <span
+                  style="border-left-width: 0.002em; border-left-style: solid; display: inline-block; overflow: hidden; width: 0px; height: 3.336em; vertical-align: -1.498em;"
+                />
+              </span>
+            </nobr>
+          </span>
+
+        </span>
+      </span>
+    </div>
+    <script type="math/mml" id="MathJax-Element-1">
+      <math id="M1" display="block" overflow="scroll">
+        <mrow>
+          <msub>
+            <mrow>
+              <mi>y</mi>
+            </mrow>
+            <mi>i</mi>
+          </msub>
+          <mo stretchy="false">(</mo>
+          <msub>
+            <mrow>
+              <mi>t</mi>
+            </mrow>
+            <mrow>
+              <mi>i</mi>
+              <mi>k</mi>
+            </mrow>
+          </msub>
+          <mo stretchy="false">)</mo>
+          <mo>=</mo>
+          <munderover>
+            <mo>∑</mo>
+            <mrow>
+              <mi>g</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>p</mi>
+          </munderover>
+          <mrow>
+            <msub>
+              <mrow>
+                <mi>x</mi>
+              </mrow>
+              <mrow>
+                <mi>i</mi>
+                <mi>g</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mrow>
+                <mi>t</mi>
+              </mrow>
+              <mrow>
+                <mi>i</mi>
+                <mi>k</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">)</mo>
+            <msubsup>
+              <mrow>
+                <mi>β</mi>
+              </mrow>
+              <mi>g</mi>
+              <mn>0</mn>
+            </msubsup>
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mrow>
+                <mi>t</mi>
+              </mrow>
+              <mrow>
+                <mi>i</mi>
+                <mi>k</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>+</mo>
+          <msub>
+            <mrow>
+              <mi>ε</mi>
+            </mrow>
+            <mrow>
+              <mi>i</mi>
+              <mi>k</mi>
+            </mrow>
+          </msub>
+          <mo>,</mo>
+          <mspace width="0.16667em"/>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+          <mo>,</mo>
+          <mo>⋯</mo>
+          <mo>,</mo>
+          <mi>n</mi>
+          <mo>,</mo>
+          <mi>k</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+          <mo>,</mo>
+          <mo>⋯</mo>
+          <mo>,</mo>
+          <mi>K</mi>
+          <mo>,</mo>
+        </mrow>
+      </math>
+    </script>
+  </div>
+</div>

@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+  <head>
+    <title>test5.html</title>
+  </head>
+  <body>
+    <div style="width:300px; border:1px solid blue">
+      <h1>test5.html</h1>
+      <p> 
+        This fails when in "fail mode":
+        <math id="M5" display="inline" overflow="scroll">
+          <mrow>
+            <msub>
+              <mover accent="true">
+                <mi>p</mi>
+                <mo stretchy="false">&#x020d1;</mo>
+              </mover>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+        </math>
+        .<br/>
+        Simple equation never fails:
+        <math id="M5" display="inline" overflow="scroll">
+          <mrow>
+            <msub>
+              <mi>p</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+        </math>
+      </p>
+      
+
+      <p>
+        <b>Not too wide</b> (doesn't put us into "fail mode"):
+      </p>
+      <p>
+        <math id="M2" display="block" overflow="scroll">
+   
+          <mrow>
+            <mi>&#x003a8;</mi>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <munder accentunder="true">
+                  <mi>R</mi>
+                  <mo stretchy="false">&#x00331;</mo>
+                </munder>
+                <mo>,</mo>
+                <mi>t</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mo>=</mo>
+            <mrow>
+              <mo>&#x0222b;</mo>
+              <mrow>
+                <msup>
+                  <mi>d</mi>
+                  <mrow>
+                    <mn>6</mn>
+                    <mi>N</mi>
+                  </mrow>
+                </msup>
+                <msup>
+                  <mi>&#x00393;</mi>
+                  <mo>&#x02217;</mo>
+                </msup>
+                <mi>&#x00394;</mi>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <munder accentunder="true">
+                      <mi>R</mi>
+                      <mo stretchy="false">&#x00331;</mo>
+                    </munder>
+                    <mo>&#x02212;</mo>
+                    <msup>
+                      <munder accentunder="true">
+                        <mi>R</mi>
+                        <mo stretchy="false">&#x00331;</mo>
+                      </munder>
+                      <mo>&#x02217;</mo>
+                    </msup>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+                <mi>&#x003c1;</mi>
+              </mrow>
+            </mrow>
+            <mo>,</mo>
+          </mrow>
+        </math>
+      </p>
+
+      <p> 
+        This fails when in "fail mode":
+        <math id="M5" display="inline" overflow="scroll">
+          <mrow>
+            <msub>
+              <mover accent="true">
+                <mi>p</mi>
+                <mo stretchy="false">&#x020d1;</mo>
+              </mover>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+        </math>
+        .<br/>
+        Simple equation never fails:
+        <math id="M5" display="inline" overflow="scroll">
+          <mrow>
+            <msub>
+              <mi>p</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+        </math>
+      </p>
+      
+
+      <p>
+        <b>Too wide</b> (this puts us into "fail mode"):
+      </p>
+      <p>
+        <math id="M4" display="block" overflow="scroll">
+          <mrow>
+            <mfrac>
+              <mrow>
+                <mo>&#x02202;</mo>
+                <mi>&#x003c1;</mi>
+              </mrow>
+              <mrow>
+                <mo>&#x02202;</mo>
+                <mi>t</mi>
+              </mrow>
+            </mfrac>
+            <mo>=</mo>
+            <mi mathvariant="script">L</mi>
+            <mi>&#x003c1;</mi>
+            <mo>,</mo>
+            <mtext>&#x02002;</mtext>
+            <mtext>&#x02002;</mtext>
+            <mi mathvariant="script">L</mi>
+            <mo>=</mo>
+            <mo>&#x02212;</mo>
+            <munderover>
+              <mo>&#x02211;</mo>
+              <mrow>
+                <mi>i</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+              </mrow>
+              <mi>N</mi>
+            </munderover>
+            <mrow>
+              <mrow>
+                <mo stretchy="true">(</mo>
+                <mrow>
+                  <mfrac>
+                    <mrow>
+                      <msub>
+                        <mover accent="true">
+                          <mi>p</mi>
+                          <mo stretchy="false">&#x020d1;</mo>
+                        </mover>
+                        <mi>i</mi>
+                      </msub>
+                    </mrow>
+                    <mrow>
+                      <msub>
+                        <mi>m</mi>
+                        <mi>i</mi>
+                      </msub>
+                    </mrow>
+                  </mfrac>
+                  <mo>&#x02022;</mo>
+                  <mfrac>
+                    <mo>&#x02202;</mo>
+                    <mrow>
+                      <mo>&#x02202;</mo>
+                      <msub>
+                        <mover accent="true">
+                          <mi>r</mi>
+                          <mo stretchy="false">&#x020d1;</mo>
+                        </mover>
+                        <mi>i</mi>
+                      </msub>
+                    </mrow>
+                  </mfrac>
+                  <mo>+</mo>
+                  <msub>
+                    <mover accent="true">
+                      <mi>F</mi>
+                      <mo stretchy="false">&#x020d1;</mo>
+                    </mover>
+                    <mi>i</mi>
+                  </msub>
+                  <mo>&#x02022;</mo>
+                  <mfrac>
+                    <mo>&#x02202;</mo>
+                    <mrow>
+                      <mo>&#x02202;</mo>
+                      <msub>
+                        <mover accent="true">
+                          <mi>p</mi>
+                          <mo stretchy="false">&#x020d1;</mo>
+                        </mover>
+                        <mi>i</mi>
+                      </msub>
+                    </mrow>
+                  </mfrac>
+                </mrow>
+                <mo stretchy="true">)</mo>
+              </mrow>
+            </mrow>
+            <mo>,</mo>
+          </mrow>
+        </math>
+      </p>
+      <p> 
+        This fails when in "fail mode":
+        <math id="M5" display="inline" overflow="scroll">
+          <mrow>
+            <msub>
+              <mover accent="true">
+                <mi>p</mi>
+                <mo stretchy="false">&#x020d1;</mo>
+              </mover>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+        </math>
+        .<br/>
+        Simple equation never fails:
+        <math id="M5" display="inline" overflow="scroll">
+          <mrow>
+            <msub>
+              <mi>p</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+        </math>
+      </p>
+
+      <script type='text/x-mathjax-config'>
+        MathJax.Hub.Config({
+            SVG: {
+                scale: 90,
+                linebreaks: {
+                    automatic: true,
+                    width: "container"
+                }
+            },
+            /*showProcessingMessages: false,
+            messageStyle: "none",*/
+            menuSettings: {
+                zoom: "Click",
+                zscale: "100%"
+            }
+        });
+      </script>
+      <script type="text/javascript" 
+        src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_SVG-full.js">
+      </script>
+    </div>
+  </body>
+</html>

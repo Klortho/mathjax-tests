@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>A Wacky Article</title>
+    <script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+          menuSettings: {
+              zoom: "Click",
+              zscale: "200%"
+          },
+      });
+    </script>
+
+  <!--
+    Configuration options
+
+    =========================================
+    0. MathJax 2.3 from the official CDN, with standard HTML/CSS config
+    <script type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    =========================================
+    1. MathJax: my working copy, with standard HTML/CSS config.  This will not exhibit the fix,
+    because it uses the default value (false) for MathZoom.bodyDiv, which turns off the new
+    feature.
+    <script type="text/javascript"
+      src="../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    =========================================
+    2. MathJax: my working copy, with standard HTML/CSS config, and additionally set bodyDiv=true.
+    <script type="text/javascript"
+      src="../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_HTMLorMML,http://www.ncbi.nlm.nih.gov/staff/maloneyc/mathjax/zoomclip/body-div.js">
+    </script>
+
+    =========================================
+    3. MathJax 2.3 from the official CDN, with standard SVG config.
+    In Chrome, this exhibits bug described in GH issue #749.
+    <script type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_SVG">
+    </script>
+
+    =========================================
+    4. MathJax: my working copy, with standard SVG config,
+    <script type="text/javascript"
+      src="../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_SVG">
+    </script>
+
+    =========================================
+    5. MathJax: my working copy, with standard SVG config, and additionally set bodyDiv=true
+    <script type="text/javascript"
+      src="../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_SVG,http://www.ncbi.nlm.nih.gov/staff/maloneyc/mathjax/zoomclip/body-div.js">
+    </script>
+
+  -->
+
+    1. MathJax: my working copy, with standard HTML/CSS config.  This will not exhibit the fix,
+    because it uses the default value (false) for MathZoom.bodyDiv, which turns off the new
+    feature.
+    <script type="text/javascript"
+      src="../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+
+    <style type='text/css'>
+      .grid {
+        min-width: 800px;
+        max-width: 1200px;
+        width: 100%;
+        clear: both;
+        margin: 0 auto;
+        text-align: left;
+        overflow: hidden
+      }
+      .col {
+        margin-right: 1%;
+        float: left;
+        background-color: #fff;
+        overflow:hidden;
+      }
+      .last {
+        *zoom: 1;
+        *margin-right: 0;
+        _margin-right: -6px;
+      }
+      .four_col { width: 32.3333%; }
+      .eight_col { width: 65.6666%; }
+      .twelve_col { width: 98.9999%; }
+      @media screen and (max-width: 1200px) {
+        body > .grid > .twelve_col { width: 100%; }
+      }
+    </style>
+  </head>
+
+  <body class="article">
+    <div id='MathJax_ZoomWrapper'></div>
+    <div class="grid">
+      <div class="col twelve_col">
+          <div class="content eight_col col">
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <div class="disp-formula" id="FDz">
+              <div class="f">
+                <math id="Mz" display="block" overflow="scroll">
+                  <mrow>
+                    <msub>
+                      <mrow>
+                        <mi>y</mi>
+                      </mrow>
+                      <mi>i</mi>
+                    </msub>
+                    <mo stretchy="false">(</mo>
+                    <msub>
+                      <mrow>
+                        <mi>t</mi>
+                      </mrow>
+                      <mrow>
+                        <mi>i</mi>
+                        <mi>k</mi>
+                      </mrow>
+                    </msub>
+                    <mo stretchy="false">)</mo>
+                    <mo>=</mo>
+                    <munderover>
+                      <mo>&#x02211;</mo>
+                      <mrow>
+                        <mi>g</mi>
+                        <mo>=</mo>
+                        <mn>1</mn>
+                      </mrow>
+                      <mi>p</mi>
+                    </munderover>
+                    <mrow>
+                      <msub>
+                        <mrow>
+                          <mi>x</mi>
+                        </mrow>
+                        <mrow>
+                          <mi>i</mi>
+                          <mi>g</mi>
+                        </mrow>
+                      </msub>
+                      <mo stretchy="false">(</mo>
+                      <msub>
+                        <mrow>
+                          <mi>t</mi>
+                        </mrow>
+                        <mrow>
+                          <mi>i</mi>
+                          <mi>k</mi>
+                        </mrow>
+                      </msub>
+                      <mo stretchy="false">)</mo>
+                      <msubsup>
+                        <mrow>
+                          <mi>&#x003b2;</mi>
+                        </mrow>
+                        <mi>g</mi>
+                        <mn>0</mn>
+                      </msubsup>
+                      <mo stretchy="false">(</mo>
+                      <msub>
+                        <mrow>
+                          <mi>t</mi>
+                        </mrow>
+                        <mrow>
+                          <mi>i</mi>
+                          <mi>k</mi>
+                        </mrow>
+                      </msub>
+                      <mo stretchy="false">)</mo>
+                    </mrow>
+                    <mo>+</mo>
+                    <msub>
+                      <mrow>
+                        <mi>&#x003b5;</mi>
+                      </mrow>
+                      <mrow>
+                        <mi>i</mi>
+                        <mi>k</mi>
+                      </mrow>
+                    </msub>
+                    <mo>,</mo>
+                    <mspace width="0.16667em"></mspace>
+                    <mi>i</mi>
+                    <mo>=</mo>
+                    <mn>1</mn>
+                    <mo>,</mo>
+                    <mo>&#x022ef;</mo>
+                    <mo>,</mo>
+                    <mi>n</mi>
+                    <mo>,</mo>
+                    <mi>k</mi>
+                    <mo>=</mo>
+                    <mn>1</mn>
+                    <mo>,</mo>
+                    <mo>&#x022ef;</mo>
+                    <mo>,</mo>
+                    <mi>K</mi>
+                    <mo>,</mo>
+                  </mrow>
+                </math>
+              </div>
+            </div>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+            <p>Lorem ipsum.</p>
+          </div>
+          <div class="four_col col last">
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+            <p>Muspi merol</p>
+          </div>
+      </div>
+    </div>
+  </body>
+</html>
