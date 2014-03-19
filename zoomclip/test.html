@@ -29,13 +29,18 @@
     because it uses the default value (false) for MathZoom.bodyDiv, which turns off the new
     feature.
     <script type="text/javascript"
-      src="../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+      src="../../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
 
     =========================================
     2. MathJax: my working copy, with standard HTML/CSS config, and additionally set bodyDiv=true.
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        MathZoom: { bodyDiv: true }
+      });
+    </script>
     <script type="text/javascript"
-      src="../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_HTMLorMML,http://www.ncbi.nlm.nih.gov/staff/maloneyc/mathjax/zoomclip/body-div.js">
+      src="../../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
 
     =========================================
@@ -48,22 +53,25 @@
     =========================================
     4. MathJax: my working copy, with standard SVG config,
     <script type="text/javascript"
-      src="../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_SVG">
+      src="../../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_SVG">
     </script>
 
     =========================================
     5. MathJax: my working copy, with standard SVG config, and additionally set bodyDiv=true
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        MathZoom: { bodyDiv: true }
+      });
+    </script>
     <script type="text/javascript"
-      src="../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_SVG,http://www.ncbi.nlm.nih.gov/staff/maloneyc/mathjax/zoomclip/body-div.js">
+      src="../../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_SVG">
     </script>
 
   -->
 
-    1. MathJax: my working copy, with standard HTML/CSS config.  This will not exhibit the fix,
-    because it uses the default value (false) for MathZoom.bodyDiv, which turns off the new
-    feature.
+    0. MathJax 2.3 from the official CDN, with standard HTML/CSS config
     <script type="text/javascript"
-      src="../MathJax/unpacked/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
 
 
